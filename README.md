@@ -63,7 +63,7 @@ TOKEN=token_bot_elu
 ```
 1P-BOT-MUSIC-DISCORD/
 ├── bot.js            # File utama bot
-├── .env              # Token bot (jangan di-commit!)
+├── .env              # Token bot 
 ├── yt-dlp            # Binary yt-dlp (Linux)
 ├── yt-dlp.exe        # Binary yt-dlp (Windows)
 ├── package.json
