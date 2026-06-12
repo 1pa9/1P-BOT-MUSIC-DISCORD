@@ -9,8 +9,8 @@ Bot music Discord menggunakan **yt-dlp** untuk streaming audio dari YouTube.
 - Putar musik dari YouTube (URL atau nama lagu)
 - Sistem antrian lagu
 - Atur volume real-time
-- ⏭Skip lagu
-- ⏹Stop musik
+- Skip lagu
+- Stop musik
 - Status bot berubah sesuai lagu yang diputar
 - Auto keluar voice channel saat antrian habis
 
